@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Just Chat Me</string>
+    <string name="messages">Messages</string>
+    <string name="search_user">Search for users</string>
+    <string name="chats">Chats</string>
+    <string name="profile">Profile</string>
+</resources>
